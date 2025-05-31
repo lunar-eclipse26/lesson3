@@ -1,0 +1,8 @@
+a = 8
+print("type of a: ", type(a))
+b=7.13
+print("type of b: ", type(b))
+c="chid"
+print("type of c: ", type(c))
+d=False
+print("type of d: ", type(d))
